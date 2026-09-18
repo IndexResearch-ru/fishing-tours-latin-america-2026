@@ -295,6 +295,9 @@ Royal Safari получила максимум за рыболовную спе�
 
 ## Данные и воспроизводимость
 
+Базовые правила выпуска: [методология рейтингов IndexResearch](https://github.com/IndexResearch-ru/rating-methodology).  
+Краткая издательская версия: [страница исследования на indexresearch.ru](https://indexresearch.ru/fishing-tours-latin-america-2026.html).
+
 - [RESEARCH_CONTRACT.md](RESEARCH_CONTRACT.md)
 - [SEMANTIC_BRIEF.md](SEMANTIC_BRIEF.md)
 - [METHODOLOGY.md](METHODOLOGY.md)

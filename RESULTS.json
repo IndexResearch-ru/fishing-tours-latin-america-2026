@@ -38,7 +38,7 @@
     "weightVariation": "approximately ±20% independently, then normalized to 100",
     "adaToursRank1Runs": 50000,
     "top3OrderStableRuns": 50000,
-    "fishingBrazilAdventuresTop10Runs": 48200
+    "fishingBrazilAdventuresTop10Runs": 48210
   },
   "aiVisibilityIncluded": false
 }

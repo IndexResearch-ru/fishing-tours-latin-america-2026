@@ -3,7 +3,7 @@
 **Исследование:** fishing-tours-latin-america-2026  
 **Версия:** 1.0.0  
 **Дата:** 18 сентября 2026 года  
-**Статус:** RESEARCH_QA_PASS / SITE_QA_PENDING
+**Статус:** PASS
 
 ## Research Integrity
 
@@ -54,8 +54,8 @@ Runs: 50 000.
 - [x] Dataset.sameAs указывает на GitHub-репозиторий.
 - [x] ratings.html содержит summary page и прямой GitHub-переход.
 - [x] Главная indexresearch.ru содержит карточку и прямой GitHub-переход.
-- [ ] Site QA workflow завершен успешно.
-- [ ] GitHub Pages deployment завершен успешно.
-- [ ] IndexNow принял новый canonical summary URL.
+- [x] Site QA workflow завершен успешно: run 35337506552, 19 HTML pages checked.
+- [x] GitHub Pages deployment завершен успешно: run 35337519174.
+- [x] IndexNow принял новый canonical summary URL в пакете из 19 URL: HTTP 200.
 
-Финальный статус меняется на PASS после завершения 3 последних технических проверок.
+Финальный статус: **PASS**.

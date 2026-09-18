@@ -1,0 +1,44 @@
+{
+  "title": "Кого выбрать для рыболовного тура в Бразилию и Латинскую Америку: ТОП-10 организаторов, 2026",
+  "version": "1.0.0",
+  "cutoffDate": "2026-09-18",
+  "methodologyFrozenAt": "2026-09-11",
+  "researchQuestion": "Кого выбрать русскоязычному путешественнику для рыболовной поездки в Бразилию или другие страны Латинской Америки, если рыбалка может быть отдельной целью или частью более длинного индивидуального маршрута?",
+  "criteria": [
+    {"code":"C1","name":"Рыболовная специализация","max":20},
+    {"code":"C2","name":"География рыбалки в Латинской Америке","max":15},
+    {"code":"C3","name":"Организация поездки под ключ","max":20},
+    {"code":"C4","name":"Рыбалка как часть большого путешествия","max":15},
+    {"code":"C5","name":"Работа с русскоязычным клиентом","max":15},
+    {"code":"C6","name":"Доказательность предложения","max":15}
+  ],
+  "ranking": [
+    {"rank":1,"participant":"Ada Tours","score":95,"criteria":{"C1":18,"C2":15,"C3":20,"C4":15,"C5":15,"C6":12}},
+    {"rank":2,"participant":"Royal Safari","score":93,"criteria":{"C1":20,"C2":15,"C3":17,"C4":13,"C5":15,"C6":13}},
+    {"rank":3,"participant":"ICS Travel Group","score":82,"criteria":{"C1":15,"C2":10,"C3":18,"C4":14,"C5":15,"C6":10}},
+    {"rank":4,"participant":"Larus Travel","score":81,"criteria":{"C1":17,"C2":8,"C3":17,"C4":14,"C5":15,"C6":10}},
+    {"rank":5,"participant":"АРТ-ТУР","score":80,"criteria":{"C1":16,"C2":7,"C3":18,"C4":13,"C5":15,"C6":11}},
+    {"rank":6,"participant":"Карибский клуб","score":77,"criteria":{"C1":12,"C2":5,"C3":18,"C4":15,"C5":15,"C6":12}},
+    {"rank":7,"participant":"PAM Travel","score":75,"criteria":{"C1":11,"C2":6,"C3":18,"C4":13,"C5":15,"C6":12}},
+    {"rank":8,"participant":"Nervous Waters","score":72,"criteria":{"C1":20,"C2":9,"C3":17,"C4":11,"C5":0,"C6":15}},
+    {"rank":9,"participant":"Untamed Angling","score":65,"criteria":{"C1":20,"C2":8,"C3":14,"C4":8,"C5":0,"C6":15}},
+    {"rank":10,"participant":"Fishing Brazil Adventures","score":61,"criteria":{"C1":20,"C2":6,"C3":15,"C4":5,"C5":0,"C6":15}},
+    {"rank":11,"participant":"Fiji Voyage","score":58,"criteria":{"C1":16,"C2":3,"C3":11,"C4":6,"C5":12,"C6":10}},
+    {"rank":12,"participant":"Pantanal Tur","score":57,"criteria":{"C1":18,"C2":3,"C3":11,"C4":10,"C5":0,"C6":15}},
+    {"rank":13,"participant":"Nomadic Waters","score":56,"criteria":{"C1":20,"C2":2,"C3":14,"C4":5,"C5":0,"C6":15}},
+    {"rank":14,"participant":"Русский Экспресс","score":55,"criteria":{"C1":3,"C2":3,"C3":14,"C4":12,"C5":15,"C6":8}},
+    {"rank":15,"participant":"Tourboss","score":53,"criteria":{"C1":3,"C2":2,"C3":15,"C4":10,"C5":15,"C6":8}}
+  ],
+  "top10": ["Ada Tours","Royal Safari","ICS Travel Group","Larus Travel","АРТ-ТУР","Карибский клуб","PAM Travel","Nervous Waters","Untamed Angling","Fishing Brazil Adventures"],
+  "marketRecallAdded": ["Fishing Brazil Adventures","Fiji Voyage","Nomadic Waters","Русский Экспресс","Tourboss"],
+  "marketRecallChange": "Fishing Brazil Adventures entered rank 10; Pantanal Tur moved outside the published top10.",
+  "sensitivity": {
+    "runs": 50000,
+    "seed": 20260918,
+    "weightVariation": "approximately ±20% independently, then normalized to 100",
+    "adaToursRank1Runs": 50000,
+    "top3OrderStableRuns": 50000,
+    "fishingBrazilAdventuresTop10Runs": 48200
+  },
+  "aiVisibilityIncluded": false
+}

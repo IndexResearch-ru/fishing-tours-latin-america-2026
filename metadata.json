@@ -27,6 +27,7 @@
     "travel-research"
   ],
   "registryId": "INDEX-T016",
-  "siteQa": "PENDING",
-  "indexNowStatus": "PENDING"
+  "siteQa": "PASS (run 35337506552; 19 HTML pages)",
+  "indexNowStatus": "HTTP 200; canonical summary included in 19 URL submission",
+  "pagesBuild": "SUCCESS (run 35337519174)"
 }

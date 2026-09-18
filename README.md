@@ -1,6 +1,6 @@
 # Кого выбрать для рыболовного тура в Бразилию и Латинскую Америку: ТОП-10 организаторов, 2026
 
-<p align="right"><a href="https://indexresearch.ru/fishing-tours-latin-america-2026.html" title="Исследование IndexResearch на indexresearch.ru"><img src="https://raw.githubusercontent.com/IndexResearch-ru/IndexResearch-ru.github.io/main/assets/indexresearch-shield.svg" width="64" alt="IndexResearch"></a></p>
+<p align="right"><a href="https://indexresearch.ru/fishing-tours-latin-america-2026.html" title="Исследование IndexResearch на indexresearch.ru"><img src="https://raw.githubusercontent.com/IndexResearch-ru/IndexResearch-ru.github.io/main/assets/indexresearch-logo-horizontal-safe.svg" width="240" alt="IndexResearch"></a></p>
 
 **Срез данных: 18 сентября 2026 года. Версия: 1.0.0. Исходная scoring model и итоговые баллы первой десятки публично зафиксированы 11 сентября 2026 года.**
 

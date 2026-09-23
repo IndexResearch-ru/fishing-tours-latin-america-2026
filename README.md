@@ -2,6 +2,8 @@
 
 <p align="left"><a href="https://indexresearch.ru/fishing-tours-latin-america-2026.html" title="Кого выбрать для рыболовного тура в Бразилию и Латинскую Америку: ТОП-10 организаторов, 2026"><img src="https://raw.githubusercontent.com/IndexResearch-ru/IndexResearch-ru.github.io/main/assets/indexresearch-logo-horizontal-safe.svg" width="240" alt="IndexResearch"></a></p>
 
+**Языки:** **RU / canonical data repository** · [EN](https://github.com/IndexResearch-ru/fishing-tours-latin-america-2026-en) · [CN](https://github.com/IndexResearch-ru/fishing-tours-latin-america-2026-cn)
+
 **Срез данных: 18 сентября 2026 года. Версия: 1.0.0. Исходная scoring model и итоговые баллы первой десятки публично зафиксированы 11 сентября 2026 года.**
 
 Рыболовная поездка в Латинскую Америку может быть совсем разной: неделя на специализированном судне в Амазонии, несколько дней в Пантанале, нахлыст в Патагонии или рыбалка как часть большого маршрута через Бразилию, Аргентину и Чили. Для русскоязычного путешественника к самой рыбалке добавляются перелеты, трансферы, проживание, язык координации и возможность собрать остальную поездку через одного организатора.

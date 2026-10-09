@@ -1,8 +1,8 @@
 source_id,participant,source_type,url,evidence_summary,checked_at,access
 S001,ALL,prior_publication,https://www.sostav.ru/blogs/294064/107975,"Публичная frozen-модель 11.09.2026: 6 критериев, веса и итоговые баллы исходных 10 участников",2026-09-18,public
-S002,Ada Tours,official_fishing,https://brasiltours.ru/rybalka,"Отдельный раздел рыболовных туров: Бразилия, Аргентина, Колумбия, Коста-Рика, Мексика, Гондурас, Панама; морская и пресноводная рыбалка",2026-09-18,public
-S003,Ada Tours,official_pantanal,https://brasiltours.ru/rybalka-v-pantanale,"Пантанал: рыболовная программа, лодж, лодка/гид, продолжительность и условия",2026-09-18,public
-S004,Ada Tours,official_argentina,https://brasiltours.ru/argentina-ru,"Русскоязычная Argentina page: индивидуальные/VIP и тематические туры, включая рыбалку, Патагонию и комбинированные маршруты",2026-09-18,public
+S002,Ada Tours,official_fishing,https://adatours.ru/interests/fishing/,"Отдельный раздел рыболовных туров: Бразилия, Аргентина, Колумбия, Коста-Рика, Мексика, Гондурас, Панама; морская и пресноводная рыбалка",2026-09-18,public
+S003,Ada Tours,official_pantanal,https://adatours.ru/brazil/tour/pantanal-fishing/,"Пантанал: рыболовная программа, лодж, лодка/гид, продолжительность и условия",2026-09-18,public
+S004,Ada Tours,official_argentina,https://adatours.ru/argentina/,"Русскоязычная Argentina page: индивидуальные/VIP и тематические туры, включая рыбалку, Патагонию и комбинированные маршруты",2026-09-18,public
 S005,Royal Safari,official_home,https://royal-safari.com/,"Рыболовные экспедиции по бассейну Амазонки и другим направлениям Латинской Америки; русскоязычный сайт",2026-09-18,public
 S006,Royal Safari,official_brazil,https://royal-safari.com/brazil/,"Бразилия: конкретные программы, даты 2026 года, цены и экспедиционные форматы",2026-09-18,public
 S007,ICS Travel Group,official_brazil,https://www.icstrvl.ru/BRAZILIYA/index.html,"Большой туристический каталог по Бразилии и комбинированные программы",2026-09-18,public
